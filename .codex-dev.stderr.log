@@ -1,0 +1,5 @@
+⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/client/image-component.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[browser] Image with src "/_next/static/media/hero-editorial-no-text.16j.mq82~cbuh.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
+[browser] Image with src "/_next/static/media/hero-editorial-no-text.16j.mq82~cbuh.png" has "fill" and parent element with invalid "position". Provided "static" should be one of absolute,fixed,relative.
+[browser] Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[browser] Image with src "/_next/static/media/hero-editorial-no-text.16j.mq82~cbuh.png" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.

@@ -1,0 +1,41 @@
+{
+  "name": "dugunproje",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint",
+    "db:setup": "psql -U postgres -f scripts/setup-db.sql",
+    "db:reset": "psql -U postgres -f scripts/reset-db.sql",
+    "db:seed": "psql -U postgres -d etkinlik_platform -f scripts/seed-data.sql"
+  },
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/jsonwebtoken": "^9.0.10",
+    "@types/multer": "^2.1.0",
+    "@types/pg": "^8.20.0",
+    "bcryptjs": "^3.0.3",
+    "browser-image-compression": "^2.0.2",
+    "firebase": "^12.12.1",
+    "framer-motion": "^12.38.0",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.1.1",
+    "next": "16.2.5",
+    "pg": "^8.20.0",
+    "qrcode.react": "^4.2.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

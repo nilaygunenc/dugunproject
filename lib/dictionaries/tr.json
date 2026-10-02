@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "gallery": "Galeri",
+    "upload": "Fotoğraf Yükle",
+    "live": "Canlı Ekran"
+  },
+  "landing": {
+    "welcome": "Hoş Geldiniz",
+    "subtitle": "Bu özel günde bizimle olduğunuz için teşekkürler",
+    "date_label": "Düğün Tarihi",
+    "gallery_btn": "Anıları Gör",
+    "upload_btn": "Fotoğraf & Mesaj Bırak"
+  },
+  "upload": {
+    "title": "Anınızı Paylaşın",
+    "subtitle": "Bu özel günden bir kare veya mesaj bırakın",
+    "name_label": "Adınız Soyadınız",
+    "name_placeholder": "Adınızı girin",
+    "name_required": "Ad Soyad zorunludur",
+    "message_label": "Mesajınız",
+    "message_placeholder": "Mutluluklar dilerim... (isteğe bağlı)",
+    "message_hint": "karakter kaldı",
+    "media_label": "Fotoğraf veya Video Seçin",
+    "media_hint": "En fazla 10 dosya • Fotoğraf veya kısa video (maks. 20 sn)",
+    "media_btn": "Dosya Seç",
+    "remove": "Kaldır",
+    "submit": "Yükle",
+    "uploading": "Yükleniyor...",
+    "success_title": "Teşekkürler!",
+    "success_msg": "Fotoğraflarınız başarıyla yüklendi. Bu özel günü bizimle paylaştığınız için çok mutluyuz!",
+    "success_gallery": "Galeriyi Gör",
+    "success_more": "Daha Fazla Yükle",
+    "error_msg": "Yükleme sırasında bir hata oluştu. Lütfen tekrar deneyin.",
+    "compressing": "Sıkıştırılıyor...",
+    "max_files": "En fazla 10 dosya seçebilirsiniz",
+    "invalid_type": "Sadece fotoğraf ve video dosyaları kabul edilmektedir"
+  },
+  "gallery": {
+    "title": "Anı Galerisi",
+    "subtitle": "Tüm misafirlerimizin paylaştığı özel anlar",
+    "empty": "Henüz fotoğraf yüklenmemiş. İlk siz olun!",
+    "likes": "beğeni",
+    "download": "İndir",
+    "by": "tarafından",
+    "load_more": "Daha Fazla Yükle"
+  },
+  "live": {
+    "title": "Canlı Anı Akışı",
+    "waiting": "Yeni anılar bekleniyor...",
+    "new_memory": "Yeni Anı"
+  },
+  "admin": {
+    "title": "Admin Paneli",
+    "password_label": "Şifre",
+    "login": "Giriş",
+    "wrong_password": "Yanlış şifre",
+    "delete": "Sil",
+    "confirm_delete": "Bu gönderiyi silmek istediğinizden emin misiniz?",
+    "deleted": "Silindi"
+  }
+}

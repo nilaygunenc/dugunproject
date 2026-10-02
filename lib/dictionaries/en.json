@@ -1,0 +1,61 @@
+{
+  "nav": {
+    "gallery": "Gallery",
+    "upload": "Upload Photo",
+    "live": "Live Screen"
+  },
+  "landing": {
+    "welcome": "Welcome",
+    "subtitle": "Thank you for being with us on this special day",
+    "date_label": "Wedding Date",
+    "gallery_btn": "View Memories",
+    "upload_btn": "Share Photo & Message"
+  },
+  "upload": {
+    "title": "Share Your Memory",
+    "subtitle": "Leave a photo or message from this special day",
+    "name_label": "Your Full Name",
+    "name_placeholder": "Enter your name",
+    "name_required": "Full name is required",
+    "message_label": "Your Message",
+    "message_placeholder": "Wishing you all the happiness... (optional)",
+    "message_hint": "characters remaining",
+    "media_label": "Select Photos or Videos",
+    "media_hint": "Up to 10 files • Photos or short videos (max 20 sec)",
+    "media_btn": "Choose Files",
+    "remove": "Remove",
+    "submit": "Upload",
+    "uploading": "Uploading...",
+    "success_title": "Thank You!",
+    "success_msg": "Your photos have been uploaded successfully. We're so happy you shared this special day with us!",
+    "success_gallery": "View Gallery",
+    "success_more": "Upload More",
+    "error_msg": "An error occurred during upload. Please try again.",
+    "compressing": "Compressing...",
+    "max_files": "You can select up to 10 files",
+    "invalid_type": "Only photo and video files are accepted"
+  },
+  "gallery": {
+    "title": "Memory Gallery",
+    "subtitle": "Special moments shared by all our guests",
+    "empty": "No photos uploaded yet. Be the first!",
+    "likes": "likes",
+    "download": "Download",
+    "by": "by",
+    "load_more": "Load More"
+  },
+  "live": {
+    "title": "Live Memory Stream",
+    "waiting": "Waiting for new memories...",
+    "new_memory": "New Memory"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "password_label": "Password",
+    "login": "Login",
+    "wrong_password": "Wrong password",
+    "delete": "Delete",
+    "confirm_delete": "Are you sure you want to delete this post?",
+    "deleted": "Deleted"
+  }
+}
